@@ -1,0 +1,36 @@
+{
+    "name": "qafoolabs/restclient",
+    "description": "Simple utility library to handle UUID identifiers.",
+    "version": "1.0.0",
+    "type": "library",
+    "minimum-stability": "stable",
+    "authors": [
+        {
+            "name": "Tobias Schlitt",
+            "email": "toby@qafoo.com"
+        },
+
+        {
+            "name": "Kore Nordmann",
+            "email": "kore@qafoo.com"
+        },
+        {
+            "name": "Jakob Westhoff",
+            "email": "jakob@qafoo.com"
+        },
+        {
+            "name": "Manuel Pichler",
+            "email": "manuel@qafoo.com"
+        }
+    ],
+
+    "require": {
+        "qafoolabs/errorhandler": "*"
+    },
+
+    "autoload": {
+        "psr-0": {
+            "QafooLabs\\RestClient": "src/main"
+        }
+    }
+}
