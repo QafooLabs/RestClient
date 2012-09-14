@@ -1,0 +1,17 @@
+{
+    "hash": "377f9d9c4c046e70c2a7558a2c191509",
+    "packages": [
+        {
+            "package": "qafoolabs/errorhandler",
+            "version": "1.0.0"
+        }
+    ],
+    "packages-dev": null,
+    "aliases": [
+
+    ],
+    "minimum-stability": "stable",
+    "stability-flags": [
+
+    ]
+}
