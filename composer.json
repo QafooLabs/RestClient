@@ -1,7 +1,7 @@
 {
     "name": "qafoolabs/restclient",
-    "description": "Simple utility library to handle UUID identifiers.",
-    "version": "1.0.0",
+    "description": "Really simple rest client used within some of our projects.",
+    "version": "1.0.1",
     "type": "library",
     "minimum-stability": "stable",
     "authors": [
